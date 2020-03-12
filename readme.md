@@ -1,4 +1,4 @@
-<n1 color='red'>亲测有效：要在linux下的python2.7中执行，否则windows下的python2/3都报错！</h1>
+<h1 style="color:red">亲测有效：要在linux下的python2.7中执行，否则windows下的python2/3都报错！</h1>
 
 > **DISCLAIMER**: This is a very old, rather slow, mostly untested, and *completely* unmaintained implementation of word2vec for an old course project (i.e., I do not respond to questions/issues). Feel free to fork/clone and modify, but *use at your own risk*!
 
